@@ -102,8 +102,8 @@ html{
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url() top center / cover no-repeat;
-    background: url('/assets/img/thumb-1920-764254.png');
+    background: url('https://img4.thuthuatphanmem.vn/uploads/2020/04/28/hinh-nen-dragon-ball-full-hd_030208037.jpg') top center / cover no-repeat;
+    /* background: url('/assets/img/thumb-1920-764254.png'); */
     /* background-repeat: no-repeat; */
 }
 .text-content{
